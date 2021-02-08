@@ -1,0 +1,8 @@
+Hello Translators !
+Welcome to Redmi Note 5 Rom Translation
+Step 1) Click Santali Folder
+Step 2) Go to the devce folder
+Step 3) Go to Vince Folder
+Step 4) Go to framework-res.apk folder and translate string.xml file
+
+*Note: First string.xml file needs to be translated in framework-res.apk and then you can choose other files from any folders
