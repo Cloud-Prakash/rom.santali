@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="eta_hours">
+        <item quantity="other">%d hours left</item>
+        <item quantity="one">1 hour left</item>
+    </plurals>
+    <plurals name="eta_minutes">
+        <item quantity="other">%d minutes left</item>
+        <item quantity="one">1 minute left</item>
+    </plurals>
+    <plurals name="eta_seconds">
+        <item quantity="other">%d seconds left</item>
+        <item quantity="one">1 second left</item>
+    </plurals>
+</resources>
