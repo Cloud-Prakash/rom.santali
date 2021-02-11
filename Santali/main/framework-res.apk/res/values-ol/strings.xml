@@ -27,16 +27,6 @@
     <string name="fingerprint_icon_content_description">Fingerprint icon</string>
     <string name="paste_as_plain_text">Paste as plain text</string>
     <string name="autofill">Autofill</string>
-    <string name="config_helpPackageNameKey" />
-    <string name="config_helpPackageNameValue" />
-    <string name="config_helpIntentExtraKey" />
-    <string name="config_helpIntentNameKey" />
-    <string name="config_feedbackIntentExtraKey" />
-    <string name="config_feedbackIntentNameKey" />
-    <string name="config_defaultAssistant">com.google.android.googlequicksearchbox</string>
-    <string name="config_defaultBrowser">@string/default_browser</string>
-    <string name="config_defaultDialer">com.google.android.dialer</string>
-    <string name="config_defaultSms">@string/default_sms_application</string>
     <string name="BaMmi">Call barring</string>
     <string name="CLIRDefaultOffNextCallOff">Caller ID defaults to not restricted. Next call: Not restricted</string>
     <string name="CLIRDefaultOffNextCallOn">Caller ID defaults to not restricted. Next call: Restricted</string>
